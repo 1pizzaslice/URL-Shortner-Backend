@@ -1,1 +1,33 @@
-node_modules
+
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Dependency directories
+bower_components/
+
+# Environment variables
+.env
+
+# npm package lock files
+package-lock.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.iml
+
+# Build output
+dist/
+build/
